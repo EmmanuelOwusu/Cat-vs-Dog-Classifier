@@ -28,6 +28,7 @@ cd Cat-vs-Dog-Classifier
 - Download our preprocessed data from [here](https://drive.google.com/file/d/1Cn0B9Zr2irUnZcHqODT9IilGHf9fZ61R/view).
 
 ### Run the main file
+Run this file on the command line to generate output.
 
 ```python
 python main.py
